@@ -1,5 +1,5 @@
 {
-    "name": "마이크로비트 입력",
+    "name": "입력-음악-LED 카테고리 블록",
     "description": "",
     "dependencies": {
         "core": "*",
